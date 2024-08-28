@@ -1,4 +1,5 @@
 access.log
 *.log
 never.txt
+temp/
 
